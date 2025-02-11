@@ -1,4 +1,4 @@
 ## Automix
 
-<img src="./AutoMix.svg" width="400">
+<img src="./AutoMix.svg" width="100">
 
